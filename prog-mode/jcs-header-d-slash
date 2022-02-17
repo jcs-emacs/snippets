@@ -4,10 +4,10 @@
 # --
 // ========================================================================
 // $File: `(jcs-file-name)` $
-// $Date: `(jcs-timestamp-ver1)` $
+// $Date: `(format-time-string "%Y-%m-%d %H:%M:%S")` $
 // $Revision: $
 // $Creator: ${1:CREATOR_NAME} $
 // $Notice: See LICENSE.txt for modification and distribution information $
-//                   Copyright © `(jcs-year-only)` by ${2:COPYRIGHT_INFO} $
+//                   Copyright © `(format-time-string "%Y")` by ${2:COPYRIGHT_INFO} $
 // ========================================================================
 $0
