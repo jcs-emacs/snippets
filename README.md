@@ -4,6 +4,14 @@
 
 Personal snippets.
 
+## 🔨 Usage
+
+Close this repo to your `~/.emacs.d/` directory.
+
+```sh
+git clone https://github.com/jcs-emacs/snippets ~/.emacs.d/snippets
+```
+
 ## Contribute
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
