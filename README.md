@@ -4,7 +4,7 @@
 
 Personal snippets.
 
-## 🔨 Usage
+## 💾 Installation
 
 Close this repo to your `~/.emacs.d/` directory.
 
