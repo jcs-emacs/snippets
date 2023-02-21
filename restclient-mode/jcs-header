@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: jcs-header
+# key: jcs-header
+# --
+# -*- restclient -*-
+$0
