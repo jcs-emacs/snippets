@@ -2,6 +2,7 @@
 # name: jcs-header
 # key: jcs-header
 # --
+;; -*- mode: nasm; lexical-binding: t -*-
 ;; ========================================================================
 ;; $File: `(jcs-file-name)` $
 ;; $Date: `(format-time-string "%Y-%m-%d %H:%M:%S")` $
