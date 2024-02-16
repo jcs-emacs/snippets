@@ -19,7 +19,7 @@ Close this repo to your `~/.emacs.d/` directory.
 git clone https://github.com/jcs-emacs/snippets ~/.emacs.d/snippets
 ```
 
-## Contribute
+## 🛠️ Contribute
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Donate on paypal](https://img.shields.io/badge/paypal-donate-1?logo=paypal&color=blue)](https://www.paypal.me/jcs090218)
