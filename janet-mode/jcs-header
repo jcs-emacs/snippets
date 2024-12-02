@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: jcs-header
+# key: jcs-header
+# --
+# ========================================================================
+# $File: `(jcs-file-name)` $
+# $Date: `(format-time-string "%Y-%m-%d %H:%M:%S")` $
+# $Revision: $
+# $Creator: ${1:CREATOR_NAME} $
+# $Notice: See LICENSE.txt for modification and distribution information
+#                   Copyright © `(format-time-string "%Y")` by ${2:COPYRIGHT_INFO} $
+# ========================================================================
+$0
