@@ -9,7 +9,7 @@
 
 # snippets
 
-Personal snippets.
+Personal snippets using [yasnippet][].
 
 ## 💾 Installation
 
@@ -45,3 +45,8 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 See [`LICENSE`](./LICENSE) for details.
+
+
+<!-- Links -->
+
+[yasnippet]: https://github.com/joaotavora/yasnippet
